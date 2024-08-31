@@ -1,6 +1,7 @@
 ## Clash Meta for Android
 
 A Graphical user interface of [Clash.Meta](https://github.com/MetaCubeX/Clash.Meta) for Android
+请到发布页面下载对应的安装包：https://github.com/MetaCubeX/ClashMetaForAndroid/releases
 
 ### Feature
 
